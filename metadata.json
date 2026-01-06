@@ -1,0 +1,7 @@
+{
+  "name": "ZenParticles - Gesture Controlled 3D System",
+  "description": "A high-performance interactive 3D particle system using Three.js and MediaPipe Hand Tracking. Control complex particle formations like hearts, flowers, and Saturn using hand gestures: open/close for scaling, index finger for XY rotation, and two fingers for Z-axis tilt.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
